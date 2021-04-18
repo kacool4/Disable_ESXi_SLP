@@ -1,0 +1,29 @@
+Settings for esxi1host
+SLP CIM Service is set to Not running
+Start up policy is set to Start and stop Manually
+Firewall is Disabled
+
+Settings for esxi2host
+SLP CIM Service is set to Not running
+Start up policy is set to Start and stop Manually
+Firewall is Disabled
+
+Settings for esxi3host
+SLP CIM Service is set to Not running
+Start up policy is set to Start and stop Manually
+Firewall is Disabled
+
+Settings for esxi4host
+SLP CIM Service is set to Not running
+Start up policy is set to Start and stop Manually
+Firewall is Disabled
+
+Settings for esxi5host
+SLP CIM Service is set to Not running
+Start up policy is set to Start and stop Manually
+Firewall is Disabled
+
+Settings for esxi6host
+SLP CIM Service is set to Not running
+Start up policy is set to Start and stop Manually
+Firewall is Disabled
